@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.myapp"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "SimplyJobly",
+    "packageName": "com.mycompany.myapp",
+    "packageFolder": "com/mycompany/myapp",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "memcached",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjdhZmQ4YTA4ODEwNWJkNWVkODQzMWY2ZTllZGI3ZTQ4YzJjOWJlMTY2NzBhODQwYjIwNDczYTY5OGFhOTI3NWI1Y2Q5ODYyMjQzYWZmOTM5N2Y0Zjc5NWM0MGUxYzVhYzUwYjI2ZGUwYjJiMmNlZGM0YmNmODcxYmZlOTg1YTQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
